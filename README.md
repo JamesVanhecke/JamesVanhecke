@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**JamesVanhecke/JamesVanhecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James, a Software Engineer based in Brussels, Belgium.
 
-Here are some ideas to get you started:
+✨ My main tech stack
+React, React Native, TypeScript, Python, Next.js, Tailwinds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current work
+allo - A Compute Allocation Manager (CAM)
+
+🌱 Currently learning
+FastAPI, LLM App dev, Build RAG
+
+📫 How to reach me: James.Vanhecke@hotmail.com
+
+⚡ Fun fact
+Hobbies: karting, video game, cinema
