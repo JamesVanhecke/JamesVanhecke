@@ -3,20 +3,9 @@
 ```ts
 const james = {
   location: "Brussels, Belgium 🇧🇪",
-  role: "Software Engineer",
-  passions: [
-    "Full Stack Development",
-    "Mobile Apps",
-    "AI & LLMs",
-    "Payments",
-    "Real-time Systems"
-  ],
-  currentWork: "Building allo — a Compute Allocation Manager (CAM)",
-  currentlyLearning: [
-    "FastAPI",
-    "LLM App Development",
-    "RAG Systems"
-  ],
+  role: "Software Engineer - Product",
+  currentWork: "allo — a Compute Allocation Manager (CAM)",
+  currentlyLearning: ["FastAPI", "LLM App Development", "RAG Systems"],
   techStack: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
     mobile: ["React Native", "Expo"],
@@ -33,14 +22,6 @@ const james = {
 ## 🚀 About Me
 
 I'm a software engineer passionate about building products from idea → production.
-
-I enjoy working on:
-- 📱 Mobile apps
-- ⚡ Real-time systems
-- 🤖 AI-powered tools
-- 💳 Payments & infrastructure
-- ☁️ Scalable backend systems
-
 Recently, I've been building marketplaces, AI workflows, and GPU/compute-related products.
 
 ---
@@ -77,7 +58,6 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 - 📧 James.Vanhecke@hotmail.com
 - 💼 LinkedIn: www.linkedin.com/in/james-vanhecke/
-- 🌍 Portfolio: coming soon
 
 ---
 
