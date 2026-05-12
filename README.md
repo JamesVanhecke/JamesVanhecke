@@ -48,6 +48,12 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws)
 
+### Currently Learning
+![Bun](https://img.shields.io/badge/-Bun-000?style=for-the-badge&logo=bun)
+![RBAC](https://img.shields.io/badge/-RBAC-000?style=for-the-badge)
+![CLI Development](https://img.shields.io/badge/-CLI%20Development-000?style=for-the-badge)
+![SSH](https://img.shields.io/badge/-SSH%20Key%20Management-000?style=for-the-badge)
+
 ---
 
 ## 🔭 Current Focus
