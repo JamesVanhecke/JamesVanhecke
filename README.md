@@ -1,4 +1,6 @@
-# Hi there 👋 I'm James
+[![Portfolio Banner](./1.png)](#)
+
+Hi there 👋 I'm James
 
 ```ts
 const james = {
@@ -51,6 +53,12 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 - Building **allo** — a Compute Allocation Manager (CAM)
 - Exploring GPU infrastructure & compute marketplaces
 - Learning Bun, SSH key management, RBAC, and CLI development
+
+---
+## Recent Projects
+[![Louloto - Rent your car in Mauritius](./2.png)](https://louloto.com/)
+
+[![Co-Broke App](./3.png)](https://apps.apple.com/ae/app/co-broke/id6745682086)
 
 ---
 
