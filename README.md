@@ -1,4 +1,6 @@
-[![Portfolio Banner](./1.png)](#)
+<a href="https://www.linkedin.com/in/james-vanhecke/">
+  <img src="./1.png" width="100%" />
+</a>
 
 Hi there 👋 I'm James
 
@@ -56,9 +58,13 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 ---
 ## Recent Projects
-[![Louloto - Rent your car in Mauritius](./2.png)](https://louloto.com/)
+<a href="https://louloto.com/">
+  <img src="./2.png" width="100%" />
+</a>
 
-[![Co-Broke App](./3.png)](https://apps.apple.com/ae/app/co-broke/id6745682086)
+<a href="https://apps.apple.com/ae/app/co-broke/id6745682086">
+  <img src="./3.png" width="100%" />
+</a>
 
 ---
 
