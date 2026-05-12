@@ -5,7 +5,7 @@ const james = {
   location: "Brussels, Belgium 🇧🇪",
   role: "Software Engineer - Product",
   currentWork: "allo — a Compute Allocation Manager (CAM)",
-  currentlyLearning: ["FastAPI", "LLM App Development", "RAG Systems"],
+  currentlyLearning: ["Bun", "SSH key management", "RBAC", "CLI development"],
   techStack: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
     mobile: ["React Native", "Expo"],
@@ -50,7 +50,7 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 - Building **allo** — a Compute Allocation Manager (CAM)
 - Exploring GPU infrastructure & compute marketplaces
-- Learning more about LLM applications and RAG architectures
+- Learning Bun, SSH key management, RBAC, and CLI development
 
 ---
 
