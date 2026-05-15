@@ -4,23 +4,6 @@
 
 Hi there 👋 I'm James
 
-```ts
-const james = {
-  location: "Brussels, Belgium 🇧🇪",
-  role: "Software Engineer - Product",
-  currentWork: "allo — a Compute Allocation Manager (CAM)",
-  currentlyLearning: ["Bun", "SSH key management", "RBAC", "CLI development"],
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    mobile: ["React Native", "Expo"],
-    backend: ["Node.js", "Express", "Python"],
-    cloud: ["AWS", "MongoDB", "WebSockets"],
-    ai: ["OpenAI API", "PyTorch", "Scikit-learn"]
-  },
-  hobbies: ["Karting 🏎️", "Video Games 🎮", "Cinema 🎬"]
-};
-```
-
 ---
 
 ## 🚀 About Me
@@ -58,8 +41,8 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 ## 🔭 Current Focus
 
-- Building **allo** — a Compute Allocation Manager (CAM)
-- Exploring GPU infrastructure & compute marketplaces
+- Building **Allo** — a Compute Allocation Manager
+- Exploring GPU infrastructure
 - Learning Bun, SSH key management, RBAC, and CLI development
 
 ---
