@@ -49,7 +49,7 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 ## Recent Projects
 
 <a>
-  <img src="./En-tête (3).png" width="100%" />
+  <img src="./En-tête (4).png" width="100%" />
 </a>
 
 <a href="https://louloto.com/">
