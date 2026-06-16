@@ -15,27 +15,47 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge)
 
-### Mobile
+### Frontend & Mobile
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 
-### Backend & Cloud
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![REST API](https://img.shields.io/badge/-REST%20APIs-000?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/-Authentication-000?style=for-the-badge)
+
+### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+
+### AI & Data
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
+
+### Tools & Infrastructure
+![Stripe](https://img.shields.io/badge/-Stripe-000?style=for-the-badge&logo=stripe)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
+![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest)
+![Bun](https://img.shields.io/badge/-Bun-000?style=for-the-badge&logo=bun)
 
 ### Currently Learning
-![Bun](https://img.shields.io/badge/-Bun-000?style=for-the-badge&logo=bun)
 ![RBAC](https://img.shields.io/badge/-RBAC-000?style=for-the-badge)
 ![CLI Development](https://img.shields.io/badge/-CLI%20Development-000?style=for-the-badge)
-![SSH](https://img.shields.io/badge/-SSH%20Key%20Management-000?style=for-the-badge)
+![SSH Management](https://img.shields.io/badge/-SSH%20Key%20Management-000?style=for-the-badge)
 
 ---
 
