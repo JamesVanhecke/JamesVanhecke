@@ -41,7 +41,7 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 ## 🔭 Current Focus
 
-- Building **Allo** — AI-Powered Compute Trader
+- Building **Allo**, an optimization layer for San Francisco Compute that automatically adapts your procurement strategy to market conditions and your deployments to your workloads' needs.
 - Exploring GPU infrastructure
 - Learning Bun, SSH key management, RBAC, and CLI development
 
@@ -49,7 +49,7 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 ## Recent Projects
 
 <a>
-  <img src="./En-tête (5).png" width="100%" />
+  <img src="./En-tête (7).png" width="100%" />
 </a>
 
 <a href="https://louloto.com/">
