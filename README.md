@@ -55,7 +55,7 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 ### Currently Learning
 ![RBAC](https://img.shields.io/badge/-RBAC-000?style=for-the-badge)
 ![CLI Development](https://img.shields.io/badge/-CLI%20Development-000?style=for-the-badge)
-![SSH Management](https://img.shields.io/badge/-SSH%20Key%20Management-000?style=for-the-badge)
+![SSH Key Management](https://img.shields.io/badge/-SSH%20Key%20Management-000?style=for-the-badge)
 
 ---
 
@@ -63,7 +63,6 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 - Building **Allo**, an optimization layer for San Francisco Compute that automatically adapts your procurement strategy to market conditions and your deployments to your workloads' needs.
 - Exploring GPU infrastructure
-- Learning Bun, SSH key management, RBAC, and CLI development
 
 ---
 ## Recent Projects
