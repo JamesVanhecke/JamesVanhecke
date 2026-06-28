@@ -76,7 +76,7 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 </a>
 
 <a href="https://apps.apple.com/ae/app/co-broke/id6745682086">
-  <img src="./3.png" width="100%" />
+  <img src="./En-tête (4).png" width="100%" />
 </a>
 
 ---
