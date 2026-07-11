@@ -20,6 +20,29 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 ---
 
+## Recent Projects
+
+<a>
+  <img src="./En-tête (7).png" width="100%" />
+</a>
+
+<a href="https://louloto.com/">
+  <img src="./2.png" width="100%" />
+</a>
+
+<a href="https://apps.apple.com/ae/app/co-broke/id6745682086">
+  <img src="./En-tête (4).png" width="100%" />
+</a>
+
+---
+
+## 📫 Contact
+
+- 📧 James.Vanhecke@hotmail.com
+- 💼 LinkedIn: www.linkedin.com/in/james-vanhecke/
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -63,28 +86,6 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 ![RBAC](https://img.shields.io/badge/-RBAC-000?style=for-the-badge)
 ![CLI Development](https://img.shields.io/badge/-CLI%20Development-000?style=for-the-badge)
 ![SSH Key Management](https://img.shields.io/badge/-SSH%20Key%20Management-000?style=for-the-badge)
-
----
-## Recent Projects
-
-<a>
-  <img src="./En-tête (7).png" width="100%" />
-</a>
-
-<a href="https://louloto.com/">
-  <img src="./2.png" width="100%" />
-</a>
-
-<a href="https://apps.apple.com/ae/app/co-broke/id6745682086">
-  <img src="./En-tête (4).png" width="100%" />
-</a>
-
----
-
-## 📫 Contact
-
-- 📧 James.Vanhecke@hotmail.com
-- 💼 LinkedIn: www.linkedin.com/in/james-vanhecke/
 
 ---
 
