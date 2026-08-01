@@ -9,7 +9,7 @@ Hi there 👋 I'm James
 ## 🚀 About Me
 
 I'm a software engineer passionate about building products from idea → production.
-Recently, I've been building marketplaces, AI workflows, and GPU/compute-related products.
+Recently, I've been building AI agents, marketplaces, AI workflows, and GPU/compute-related products.
 
 ---
 
@@ -71,12 +71,16 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 
 ### AI & Data
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/-LangSmith-000?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000?style=for-the-badge&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
