@@ -23,6 +23,10 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 ## Recent Projects
 
 <a>
+  <img src="./Ally-project.png" width="100%" />
+</a>
+
+<a>
   <img src="./En-tête (7).png" width="100%" />
 </a>
 
