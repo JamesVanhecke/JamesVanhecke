@@ -15,6 +15,7 @@ Recently, I've been building marketplaces, AI workflows, and GPU/compute-related
 
 ## 🔭 Current Focus
 
+- Building **Ally**, an AI-powered dating app that helps you build relationships by understanding who you are, what you're looking for, and organizing real-life dates.
 - Building **Allo**, an optimization layer for San Francisco Compute that automatically adapts your procurement strategy to market conditions and your deployments to your workloads' needs.
 - Exploring GPU infrastructure
 
