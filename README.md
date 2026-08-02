@@ -23,7 +23,7 @@ Recently, I've been building AI agents, marketplaces, AI workflows, and GPU/comp
 
 ## Recent Projects
 
-<a>
+<a href="https://dearally.app/">
   <img src="./Ally-project(1).png" width="100%" />
 </a>
 
