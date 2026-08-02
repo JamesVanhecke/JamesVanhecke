@@ -28,15 +28,15 @@ Recently, I've been building AI agents, marketplaces, AI workflows, and GPU/comp
 </a>
 
 <a>
-  <img src="./En-tête (7).png" width="100%" />
+  <img src="./sfcompute.png" width="100%" />
 </a>
 
 <a href="https://louloto.com/">
-  <img src="./2.png" width="100%" />
+  <img src="./louloto.png" width="100%" />
 </a>
 
 <a href="https://apps.apple.com/ae/app/co-broke/id6745682086">
-  <img src="./En-tête (4).png" width="100%" />
+  <img src="./cobroke.png" width="100%" />
 </a>
 
 ---
